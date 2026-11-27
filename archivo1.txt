@@ -1,2 +1,7 @@
 hola
 Hola Buenas Noches
+
+---
+
+esto es un cambio en el archivo 1, haciendose desde ramaB
+fin
