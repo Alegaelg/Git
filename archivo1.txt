@@ -5,3 +5,8 @@ Hola Buenas Noches
 
 esto es un cambio en el archivo 1, haciendose desde ramaB
 fin
+
+---
+
+esto es un cambio que hare en ramaB
+para hacer un push no en master pero en otra rama
